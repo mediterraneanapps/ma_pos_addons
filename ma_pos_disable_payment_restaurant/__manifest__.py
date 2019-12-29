@@ -15,7 +15,7 @@
     "currency": "EUR",
 
     "depends": [
-        "pos_disable_payment",
+        "ma_pos_disable_payment",
         "pos_restaurant",
         "web_tour",
     ],
