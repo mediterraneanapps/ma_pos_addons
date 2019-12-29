@@ -1,7 +1,7 @@
 {
     'name': 'POS fiscal floor',
     'version': '10.0.1.0.1',
-    'author': 'IT-Projects LLC',
+    'author': 'Mediterranean Apps',
     'license': 'LGPL-3',
     'category': 'Point Of Sale',
     "support": "mediterranean.apps@gmail.com",
