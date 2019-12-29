@@ -9,7 +9,7 @@ Credits
 
 Contributors
 ------------
-* Ivan Yelizariev <yelizariev@it-projects.info>
+* `Mediterranean Apps <mediterranean.apps@gmail.com>`__
 
 Sponsors
 --------
