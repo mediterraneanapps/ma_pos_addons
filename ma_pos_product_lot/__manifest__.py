@@ -1,7 +1,7 @@
 {
     'name': 'Product lot in POS',
     'version': '10.0.1.0.3',
-    'author': 'IT-Projects LLC, Ivan Yelizariev',
+    'author': 'Mediterranean Apps',
     'license': 'LGPL-3',
     'category': 'Point Of Sale',
     'website': '',
