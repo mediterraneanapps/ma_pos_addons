@@ -1,7 +1,7 @@
 {
     'name': "Custom Sale Details report",
     'version': '1.0.0',
-    'author': 'IT-Projects LLC, Ivan Yelizariev',
+    'author': 'Mediterranean Apps',
     'license': 'LGPL-3',
     'category': 'Point of Sale',
     "support": "mediterranean.apps@gmail.com",
