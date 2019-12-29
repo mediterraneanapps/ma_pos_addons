@@ -6,7 +6,7 @@
     'category': 'Point Of Sale',
     "images": ['images/debt_notebook.png'],
     'version': '12.0.5.3.2',
-    'author': 'IT-Projects LLC, Ivan Yelizariev',
+    'author': 'Mediterranean Apps',
     "support": "mediterranean.apps@gmail.com",
     'website': '',
     'license': 'LGPL-3',
