@@ -2,7 +2,7 @@
 {
     'name': 'Confirm POS action by PIN',
     'version': '12.0.1.2.2',
-    'author': 'IT-Projects LLC, Ivan Yelizariev',
+    'author': 'Mediterranean Apps',
     'summary': 'Technical module for confirmation any action by user of specific group',
     'license': 'LGPL-3',
     'category': 'Hidden',
